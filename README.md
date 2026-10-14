@@ -4,10 +4,6 @@
 
 
 
-
-\
-
-
 ## 📌 Overview
 
 NGP-013 is an AI-assisted password security checker that automates password exposure checking through a Telegram bot. It combines cryptographic hashing, the Have I Been Pwned (HIBP) Pwned Passwords API, JavaScript-based result comparison, and Google Gemini AI to generate understandable security recommendations.
